@@ -7,10 +7,6 @@
   "action": {
     "title": "HP Bar",
     "icon": "icon.png",
-    "popover": {
-      "url": "index.html",
-      "width": 300,
-      "height": 200
-    }
+    "popover": "index.html"
   }
 }

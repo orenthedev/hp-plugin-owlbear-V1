@@ -2,11 +2,12 @@
   "manifest_version": 1,
   "name": "HP Bar Plugin",
   "version": "1.0.0",
-
-  "entrypoints": {
-    "main": {
-      "type": "iframe",
-      "url": "https://gabrielbohrerdora-collab.github.io/hp-plugin-owlbear/index.html"
-    }
+  "description": "Plugin simples de barra de HP",
+  "author": "Gab",
+  "icon": "icon.png",
+  "homepage_url": "https://gabrielbohrerdora-collab.github.io/hp-plugin-owlbear/",
+  "action": {
+    "type": "open_page",
+    "url": "index.html"
   }
 }

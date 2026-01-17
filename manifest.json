@@ -2,6 +2,11 @@
   "manifest_version": 1,
   "name": "HP Bar Plugin",
   "version": "1.0.0",
-  "entry": "https://gabrielbohrerdora-collab.github.io/hp-plugin-owlbear/index.html",
-  "permissions": []
+
+  "entrypoints": {
+    "main": {
+      "type": "iframe",
+      "url": "https://gabrielbohrerdora-collab.github.io/hp-plugin-owlbear/index.html"
+    }
+  }
 }

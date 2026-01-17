@@ -4,10 +4,9 @@
   "version": "1.0.0",
   "description": "Plugin simples de barra de HP",
   "author": "Gab",
-  "icon": "icon.png",
-  "homepage_url": "https://gabrielbohrerdora-collab.github.io/hp-plugin-owlbear/",
   "action": {
     "title": "HP Bar",
+    "icon": "icon.png",
     "type": "open_page",
     "url": "index.html"
   }
